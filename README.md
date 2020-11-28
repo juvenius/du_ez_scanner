@@ -1,15 +1,15 @@
 # DU EZ Scanner
-Dual Universe Ore Node Finder Script, using the True-range multilateration Algorithm.
+Dual Universe Ore Node Finder Script, This script finds ore node location with just 4 points using the True-range multilateration Algorithm. 
 
 
 ### Features
-- Simple Main Panel for easy unclutterd UI
-- Help Panel for ingame help on how to use script
+- Simple **Main Panel** for easy unclutterd UI
+- **Help Panel** for ingame help on how to use script
 - Finds the node location with just 4 points
-- Easily  add and delete points
-- Slider panel for a faster data entry (experimental)
+- Easily add and delete points without restarting script
+- **Slider Panel** for a faster data entry (experimental) 
 - Script easy pause and exit shortcuts
-- Auto paused after point scan
+- Auto paused after finding node location
 
 ### Requisites
 
@@ -32,10 +32,10 @@ Elements:
 ### UI
 
 ![fig1](fig1.png)
+![fig3](fig3.png)
+![fig4](fig5.gif)
 ![fig2](fig2.png)
 ![fig4](fig4.gif)
-![fig3](fig2.png)
-
 
 ## Use
 
