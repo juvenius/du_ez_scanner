@@ -6,8 +6,8 @@ Dual Universe Ore Node Finder Script, using the True-range multilateration Algor
 In Dual Universe use this script in a Programing Board and at range to find ore nodes using with just 4 points. It uses a trilateration algothirim similar as how GSPs Systems work. Instalation and use is very Easy, just copy/paste the code and follow the screen instructions.
 
 # Features
-- Simple Panel for easy unclutterd UI
-- Help Panel
+- Simple Main Panel for easy unclutterd UI
+- Help Panel for ingame help on how to use script
 - Finds the node location with just 4 points
 - Easily  add and delete points
 - Slider panel for a faster data entry (experimental)
@@ -38,6 +38,14 @@ After you installed your script
     6) Resume Paussed Script (Alt+8)
     7) Exit Script (Alt+9)
 
+# Good to know
+- Always take points with more than 50 meters apart from each other
+- For an acurrate mesurments dont take more than 2 points at the same elevation
+- Only Alioth Coords supported ATM, Manualy Change the fist 2 numbers to match your planet
+- After the node search the scrip will pause, resume if needed
+- All points will be flused after search
+- Keep the script paused to save GPU/CPU
+
 # Keyboard Shortcuts
 
 Alt+1 : Help\
@@ -49,10 +57,4 @@ Alt+6 : n/a\
 Alt+7 : Tougle Slider On/Off\
 Alt+8 : Pause | Resume Script\
 Alt+9 : Exit App\
-
-# Good to know
-- Only Alioth Coords supported ATM, Manualy Change the fist 2 numbers to match your planet
-- After the node search the scrip will pause, resume if needed
-- All points will be flused after search
-- Keep the script paused to save GPU/CPU
 
