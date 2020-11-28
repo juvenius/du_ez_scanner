@@ -26,6 +26,7 @@ In Dual Universe use this script in a Programing Board and at range to find ore 
 
 
 # How to use
+
 ![fig1](fig1.jpg)
 ![fig2](fig2.jpg)
 
@@ -40,6 +41,7 @@ After you installed your script
 
 
 # Keyboard Shortcuts
+
 Alt+1 : Help\
 Alt+2 : n/a\
 Alt+3 : Add Point\
