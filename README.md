@@ -1,8 +1,12 @@
 # DU EZ Scanner
 Dual Universe Ore Node Finder Script, using the True-range multilateration Algorithm.
 
+
 # Description
 In Dual Universe use this script in a Programing Board and at range to find ore nodes using with just 4 points. It uses a trilateration algothirim similar as how GSPs Systems work. Instalation and use is very Easy, just copy/paste the code and follow the screen instructions.
+
+![fig1](fig1.jpg)
+![fig2](fig2.jpg)
 
 # Features
 - Simple Panel for easy unclutterd UI
@@ -12,6 +16,8 @@ In Dual Universe use this script in a Programing Board and at range to find ore 
 - Slider panel for a faster data entry (experimental)
 - Script easy pause and exit shortcuts
 - Auto paused after point scan
+
+
 
 # Requisites
 - Dynamic core
