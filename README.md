@@ -41,7 +41,7 @@ Elements:
 
 On your desired scan location and with the programing board in range with the EZ Scanner Script running, do:
 
-1) Open your ore node scanner 
+1) Open your ore node scanner and filter to just show the desired node type to scan
 2) Scroll Mouse Wheel to match the distance of the node ping. Add point with Alt+3 and Remove with Alt+5.
 3) Space your points at least 50 mts from each other, and never more than 2 points with the same altitude
 4) When you have the 4 points, use Alt+4 to find node location
