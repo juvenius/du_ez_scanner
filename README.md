@@ -48,6 +48,9 @@ On your desired scan location and with the programing board in range with the EZ
 - After the node search the scrip will pause, resume if needed
 - All points will be flused after search
 - Keep the script paused to save GPU/CPU
+- Change Script parameters for panels to be on/off at the start of the script
+- The mouse scroll wheel has a aceleration multiplier, move it arround a bit to get the feeling of it 
+ 
 
 ### Keyboard Shortcuts
 
