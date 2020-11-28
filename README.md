@@ -18,7 +18,7 @@ Elements:
 - Programing board
 - Installed Script
 
-## INSTALLATION AND USE
+# INSTALLATION AND USE
 
 ### Installation
 
@@ -80,13 +80,15 @@ Alt+9 : Exit App
 - Less code characters
 - Better performance
 
-## SCREENSHOTS
+# SCREENSHOTS
 
-### Basic Panels
+## Basic Panels
 ![fig1](fig1.png)
 ![fig4](fig5.gif)
 
-### Paused Panels
-![fig3](fig3.png)
+## Paused Panels
 ![fig2](fig2.png)
 ![fig4](fig4.gif)
+
+## Parameters
+![fig3](fig3.png)
