@@ -33,8 +33,9 @@ Elements:
 
 ![fig1](fig1.png)
 ![fig2](fig2.png)
-![fig3](fig2.png)
 ![fig4](fig4.gif)
+![fig3](fig2.png)
+
 
 ## Use
 
