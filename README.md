@@ -23,7 +23,7 @@ Elements:
 
 ### Installation
 
-- COPY ***du_ez_scanner.lua*** in this repository to your clipboard
+- COPY ***du_ez_scanner.json*** in this repository to your clipboard
 - PASTE the code ingame in your Programing Board- 
 
 ### Before you run your script
