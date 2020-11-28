@@ -31,8 +31,10 @@ Elements:
 
 ### UI
 
-![fig1](fig1.jpg)
-![fig2](fig2.jpg)
+![fig1](fig1.png)
+![fig2](fig2.png)
+![fig3](fig2.png)
+![fig4](fig4.gif)
 
 ## Use
 
