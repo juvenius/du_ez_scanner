@@ -29,7 +29,7 @@ Elements:
 - Make sure you that your scaning node is in range of the Programing Board
 - Be mindfull of your CPU / GPU usange, it is very intensive in computational resorces. If you see any problems with it when starting it **press ALT+9** to STOP the Script
 
-## Use
+### How to Use
 
 On your desired scan location and with the programing board in range with the EZ Scanner Script running, do:
 
@@ -87,8 +87,8 @@ Alt+9 : Exit App
 ![fig4](fig5.gif)
 
 ## Paused Panels
-![fig2](fig2.png)
 ![fig4](fig4.gif)
+![fig2](fig2.png)
 
 ## Parameters
 ![fig3](fig3.png)
