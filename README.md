@@ -9,6 +9,7 @@ Dual Universe Ore Node Finder Script, This script finds ore node location with j
 - Easily add and delete points without restarting script
 - **Slider Panel** for a faster data entry (experimental) 
 - Script easy pause and exit shortcuts
+- Set parameters to have a more streamline workflow
 - Auto pause mode **Paused Panel** after finding node location, to reduce GPU/CPU usage.
 
 ### Requisites
@@ -78,10 +79,10 @@ Alt+9 : Exit App
 - To the [Rekium DU](https://discord.gg/Xy3Sk59p) [[du.rekium.org](du.rekium.org)] guys for pushing me to finish this code that i've been working for weeks to finish
 
 ### Planned Upgrades
-- Ability to show when a point is NOT 50 meters from an others, and if more than 2 points have the same elevation
-- Better UI
-- Less code characters
-- Better performance
+- [ ] Ability to show when a point is NOT 50 meters from an others, and if more than 2 points have the same elevation
+- [ ] Better UI: Point map, screenshots ingame
+- [ ] Less character in script
+- [ ] Better performance script
 
 # SCREENSHOTS
 
