@@ -5,9 +5,6 @@ Dual Universe Ore Node Finder Script, using the True-range multilateration Algor
 # Description
 In Dual Universe use this script in a Programing Board and at range to find ore nodes using with just 4 points. It uses a trilateration algothirim similar as how GSPs Systems work. Instalation and use is very Easy, just copy/paste the code and follow the screen instructions.
 
-![fig1](fig1.jpg)
-![fig2](fig2.jpg)
-
 # Features
 - Simple Panel for easy unclutterd UI
 - Help Panel
@@ -29,6 +26,8 @@ In Dual Universe use this script in a Programing Board and at range to find ore 
 
 
 # How to use
+![fig1](fig1.jpg)
+![fig2](fig2.jpg)
 
 After you installed your script
     1) Open your orge scanner ingame scanner 
