@@ -14,8 +14,6 @@ In Dual Universe use this script in a Programing Board and at range to find ore 
 - Script easy pause and exit shortcuts
 - Auto paused after point scan
 
-
-
 # Requisites
 - Dynamic core
 - Programing board
@@ -31,14 +29,14 @@ In Dual Universe use this script in a Programing Board and at range to find ore 
 ![fig2](fig2.jpg)
 
 After you installed your script
-    1) Open your orge scanner ingame scanner 
-    2) Scroll Mouse Wheel to Ping<br>
-    3) Add (Alt+3) | Remove (Alt+5) Points<br>
-    4) Find Node (Alt+4)<br>
-    5) Destination Link on Chat<br>
-    6) Resume Paussed Script (Alt+8)<br>
-    7) Exit Script (Alt+9)<b
 
+    1) Open your ore node scanner
+    2) Scroll Mouse Wheel to Ping
+    3) Add point with Alt+3 and Remove with Alt+5
+    4) Find Node with Alt+4
+    5) Destination Link on Chat
+    6) Resume Paussed Script (Alt+8)
+    7) Exit Script (Alt+9)
 
 # Keyboard Shortcuts
 
@@ -54,7 +52,7 @@ Alt+9 : Exit App\
 
 # Good to know
 - Only Alioth Coords supported ATM, Manualy Change the fist 2 numbers to match your planet
-- After the node search, the scrip will pause. Resume if needed<br>
-- All points will be flused after search<br>
-- Keep the script paused to save GPU/CPU <br>
+- After the node search the scrip will pause, resume if needed
+- All points will be flused after search
+- Keep the script paused to save GPU/CPU
 
