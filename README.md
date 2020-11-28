@@ -58,3 +58,9 @@ Alt+7 : Tougle Slider On/Off\
 Alt+8 : Pause | Resume Script\
 Alt+9 : Exit App\
 
+# Planed upgrades 
+
+- Ability to show when a point is NOT 50 meters from an others, and if more than 2 points have the same elevation
+- Better UI
+- Less code characters
+- Better performance
