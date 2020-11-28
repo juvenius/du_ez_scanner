@@ -79,6 +79,7 @@ Alt+9 : Exit App
 - To the [Rekium DU](https://discord.gg/Xy3Sk59p) [[du.rekium.org](du.rekium.org)] guys for pushing me to finish this code that i've been working for weeks to finish
 
 ### Planned Upgrades
+- [ ] Auto-Scan on 4th point on/off tougle
 - [ ] Ability to show when a point is NOT 50 meters from an others, and if more than 2 points have the same elevation
 - [ ] Better UI: Point map, screenshots ingame
 - [ ] Less character in script
