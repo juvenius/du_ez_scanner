@@ -81,6 +81,7 @@ Alt+9 : Exit App
 ### Planned Upgrades
 - [ ] Parameter: Auto-Scan on 4th point
 - [ ] Parameter: Auto-pause after finding coordinate link
+- [ ] Feature: Auto-pause after x time without movement
 - [ ] Feature: Show when a point is NOT 50 meters from an others, and if more than 2 points have the same elevation
 - [ ] Better UI: Point map, screenshots ingame of help menu
 - [ ] Less character in script
