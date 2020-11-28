@@ -18,15 +18,18 @@ Elements:
 - Programing board
 - Installed Script
 
-# Installation
+# INSTALLATION AND USE
+
+## Installation
 
 - COPY ***du_ez_scanner.lua*** in this repository to your clipboard
 - PASTE the code ingame in your Programing Board- 
 
-Before you run the script:
+## Before you run your script
 - Make sure you that your scaning node is in range of the Programing Board
+- Be mindfull of your CPU / GPU usange, it is very intensive in computational resorces. If you see any problems with it when starting it **press ALT+9** to STOP the Script
 
-# HOW TO USE
+## Use
 
 ![fig1](fig1.jpg)
 ![fig2](fig2.jpg)
