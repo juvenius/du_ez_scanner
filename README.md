@@ -15,28 +15,34 @@ In Dual Universe use this script in a Programing Board and at range to find ore 
 - Auto paused after point scan
 
 # Requisites
+
+Elements:
 - Dynamic core
 - Programing board
 - Installed Script
 
-# How to Install
-- Copy the du_ez_scanner.lua
+# Installation
 
+- COPY ***du_ez_scanner.lua*** in this repository to your clipboard
+- PASTE the code ingame in your Programing Board- 
 
-# How to use
+Before you run the script:
+- Make sure you that your scaning node is in range of the Programing Board
+
+# Use
 
 ![fig1](fig1.jpg)
 ![fig2](fig2.jpg)
 
-After you installed your script
+On site to scan, After you installed your script, activate it with (f) key
 
-    1) Open your ore node scanner
-    2) Scroll Mouse Wheel to Ping
-    3) Add point with Alt+3 and Remove with Alt+5
-    4) Find Node with Alt+4
-    5) Destination Link on Chat
-    6) Resume Paussed Script (Alt+8)
-    7) Exit Script (Alt+9)
+1) Open your ore node scanner
+2) Scroll Mouse Wheel to Ping
+3) Add point with Alt+3 and Remove with Alt+5
+4) Find Node with Alt+4
+5) Destination Link on Chat
+6) Resume Paussed Script (Alt+8)
+7) Exit Script (Alt+9)
 
 # Good to know
 - Always take points with more than 50 meters apart from each other
