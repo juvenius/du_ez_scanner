@@ -9,7 +9,7 @@ Dual Universe Ore Node Finder Script, This script finds ore node location with j
 - Easily add and delete points without restarting script
 - **Slider Panel** for a faster data entry (experimental) 
 - Script easy pause and exit shortcuts
-- Auto paused after finding node location
+- Auto pause mode **Paused Panel** after finding node location, to reduce GPU/CPU usage.
 
 ### Requisites
 
