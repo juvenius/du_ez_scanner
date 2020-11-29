@@ -1,4 +1,4 @@
-# DUAL UNIVERSE EZ Scanner
+# EZ Scanner
 Dual Universe Ore Node Finder Script, This script finds ore node location with just 4 points using the True-range multilateration Algorithm. 
 
 
