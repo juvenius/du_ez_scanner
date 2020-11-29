@@ -1,4 +1,4 @@
-# DU EZ Scanner
+# DUAL UNIVERSE EZ Scanner
 Dual Universe Ore Node Finder Script, This script finds ore node location with just 4 points using the True-range multilateration Algorithm. 
 
 
@@ -43,15 +43,13 @@ On your desired scan location and with the programing board in range with the EZ
 7) Exit Script (Alt+9)
 
 ### Good to know
-- Always take points with more than 50 meters apart from each other
-- For an acurrate mesurments dont take more than 2 points at the same elevation
-- **Only Alioth Coords supported ATM**, you Manualy Change the fist 2 numbers to match your planet (i havent test it yet)
+- Always take points with more than 50 meters apart from each other and never more than 2 with the same elevation
+- **Only Alioth Coords Tested ATM**, i havent test it yet on other planets
 - After the node search the scrip will pause, resume if needed
 - All points will be flused after search
 - Keep the script paused to save GPU/CPU
 - Change Script parameters for panels to be on/off at the start of the script
 - The mouse scroll wheel has a aceleration multiplier, move it arround a bit to get the feeling of it 
- 
 
 ### Keyboard Shortcuts
 
@@ -87,6 +85,15 @@ Alt+9 : Exit App
 - [ ] Better UI: Point map, screenshots ingame of help menu
 - [ ] Less character in script
 - [ ] Better performance script
+
+### References
+
+[1] https://en.wikipedia.org/wiki/True-range_multilateration#Three_Cartesian_dimensions,_three_measured_slant_ranges 
+
+[2] https://www.101computing.net/cell-phone-trilateration-algorithm/
+
+[3] http://archive.cone.informatik.uni-freiburg.de/teaching/vorlesung/wsn-s16/slides/WSN-C-23.pdf
+
 
 # SCREENSHOTS
 
