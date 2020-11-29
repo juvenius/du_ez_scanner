@@ -1,5 +1,6 @@
 # EZ Scanner
 Dual Universe Ore Node Finder Script, This script finds ore node location with just 4 points using the True-range multilateration Algorithm. 
+Current Version 1.01
 
 
 ### Features
@@ -11,6 +12,8 @@ Dual Universe Ore Node Finder Script, This script finds ore node location with j
 - Script easy pause and exit shortcuts
 - Set parameters to have a more streamline workflow
 - Auto pause mode **Paused Panel** after finding node location, to reduce GPU/CPU usage.
+- Auto Exit and Auto Pause Timers
+- Auto Scan after 4th Point
 
 ### Requisites
 
@@ -77,10 +80,10 @@ Alt+9 : Exit App
 - To the [Rekium DU](https://discord.gg/Xy3Sk59p) [[du.rekium.org](du.rekium.org)] guys for pushing me to finish this code that i've been working for weeks to finish
 
 ### Planned Upgrades
-- [ ] Parameter: Auto-Scan on 4th point
-- [ ] Parameter: Auto-pause after finding coordinate link
+- [x] Parameter: Auto-Scan on 4th point
+- [x] Parameter: Auto-pause after finding coordinate link
+- [x] Feature: Auto-pause after x time without movement
 - [ ] Feature: Multiplanet functionality
-- [ ] Feature: Auto-pause after x time without movement
 - [ ] Feature: Show when a point is NOT 50 meters from an others, and if more than 2 points have the same elevation
 - [ ] Better UI: Point map, screenshots ingame of help menu
 - [ ] Less character in script
