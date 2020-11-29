@@ -45,7 +45,7 @@ On your desired scan location and with the programing board in range with the EZ
 ### Good to know
 - Always take points with more than 50 meters apart from each other
 - For an acurrate mesurments dont take more than 2 points at the same elevation
-- Only Alioth Coords supported ATM, Manualy Change the fist 2 numbers to match your planet
+- **Only Alioth Coords supported ATM**, you Manualy Change the fist 2 numbers to match your planet (i havent test it yet)
 - After the node search the scrip will pause, resume if needed
 - All points will be flused after search
 - Keep the script paused to save GPU/CPU
@@ -71,7 +71,7 @@ Alt+9 : Exit App
 - 1.01 | 2020.11.28 | Initial Public Verion
 
 ###  Author
-- Juvenius Drakonius (Discord: Juvenius#2318)
+- Juvenius Drakonius (Discord: Juvenius#2318), I'm learning to code and english is not my first languange...so be gentle.
 
 ### Acknowledgements
 - Thank you to [d6rks1lv3rz3r0](https://github.com/d6rks1lv3rz3r0) for his script that helpme finished my own take on the problem. Check out his code [DU-Prospector](https://github.com/d6rks1lv3rz3r0/DU-Prospector)
@@ -81,6 +81,7 @@ Alt+9 : Exit App
 ### Planned Upgrades
 - [ ] Parameter: Auto-Scan on 4th point
 - [ ] Parameter: Auto-pause after finding coordinate link
+- [ ] Feature: Multiplanet functionality
 - [ ] Feature: Auto-pause after x time without movement
 - [ ] Feature: Show when a point is NOT 50 meters from an others, and if more than 2 points have the same elevation
 - [ ] Better UI: Point map, screenshots ingame of help menu
