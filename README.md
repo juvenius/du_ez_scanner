@@ -1,6 +1,6 @@
 # EZ Scanner
 Dual Universe Ore Node Finder Script, This script finds ore node location with just 4 points using the True-range multilateration Algorithm. 
-Current Version 1.01
+Current Version 1.02
 
 
 ### Features
@@ -14,6 +14,9 @@ Current Version 1.01
 - Auto pause mode **Paused Panel** after finding node location, to reduce GPU/CPU usage.
 - Auto Exit and Auto Pause Timers
 - Auto Scan after 4th Point
+
+New:
+- Sets the Result as **Destination Automatically**
 
 ### Requisites
 
@@ -83,7 +86,7 @@ Alt+9 : Exit App
 - [x] Parameter: Auto-Scan on 4th point
 - [x] Parameter: Auto-pause after finding coordinate link
 - [x] Feature: Auto-pause after x time without movement
-- [ ] Feature: Multiplanet functionality
+- [x] Feature: Multiplanet functionality
 - [ ] Feature: Show when a point is NOT 50 meters from an others, and if more than 2 points have the same elevation
 - [ ] Better UI: Point map, screenshots ingame of help menu
 - [ ] Less character in script
