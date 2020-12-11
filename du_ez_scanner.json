@@ -39,7 +39,7 @@
       "key": "2"
     },
     {
-      "code": "-- Delete point from table\nif  size > 0 then\n  table.remove(list) \nelse\n  list = {}\nend\n\n",
+      "code": "-- Delete point from table\nif  size > 0 then\n  table.remove(list)\n  size = size - 1 \nelse\n  list = {}\nend\n\n",
       "filter": {
         "args": [{ "value": "option5" }],
         "signature": "actionStart(action)",
