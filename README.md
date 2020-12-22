@@ -4,7 +4,7 @@ Current Version 1.02
 
 You can see the full instalation and use tutorial video here:
 
-[Dual Universe - EZ Scanner Script - Installation and Use Tutorial](https://www.youtube.com/watch?v=-dG060p57Iom)
+[Dual Universe - EZ Scanner Script - Installation and Use Tutorial Video](https://www.youtube.com/watch?v=-dG060p57Iom)
 
 
 ### Features
