@@ -1,6 +1,5 @@
 # EZ Scanner
 Dual Universe Ore Node Finder Script, This script finds ore node location with just 4 points using the True-range multilateration Algorithm. 
-Current Version 1.02
 
 You can see the full instalation and use tutorial video here:
 
@@ -76,7 +75,7 @@ Alt+9 : Exit App
 ## ABOUT
 
 ###  Versions
-- 1.01 | 2020.11.28 | Initial Public Verion
+- 1.03 | 2020.01.04 | Current Stable Version
 
 ###  Author
 - Juvenius Drakonius (Discord: Juvenius#2318), I'm learning to code and english is not my first languange...so be gentle.
