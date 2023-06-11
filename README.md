@@ -78,7 +78,7 @@ Alt+9 : Exit App
 ## ABOUT
 
 ###  Versions
-- 1.03 | 2020.01.04 | Current Stable Version
+- 1.05 | 2022.10.20 | Current Stable Version
 
 ###  Author
 - Juvenius Drakonius (Discord: Juvenius#2318), I'm learning to code and english is not my first languange...so be gentle.
